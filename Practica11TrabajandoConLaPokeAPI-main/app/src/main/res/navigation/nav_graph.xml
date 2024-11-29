@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/itunes"
-        android:name="com.example.practica11trabajandoconpokeapi.Itunes"
+        android:name="com.example.practica11trabajandoconpokeapi.ItunesFragment"
         android:label="fragment_itunes"
         tools:layout="@layout/fragment_itunes" />
 </navigation>
